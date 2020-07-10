@@ -3,9 +3,9 @@
 # Empathy. Psychology. Education.
 
 If you cut me open, you will find these three elements at my core.<br>
-Conversations and activities around them set me on fire. My philosophical approach to problem solving sets me apart.
+Conversations and activities around them set me on fire. 
 
-I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
+I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems. My philosophical approach to problem solving sets me apart.
 
 
 
