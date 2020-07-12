@@ -1,7 +1,6 @@
-<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner.gif" alt="Giwa Jossy">
-### 👋
+<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner_.gif" alt="Giwa Jossy">
 
-# Empathy. Psychology. Education.
+# Empathy. Psychology. Education. 👋
 
 If you cut me open, you will find these three elements at my core.<br>
 Conversations and activities around them set me on fire. 
