@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner.mp4" alt="Giwa Jossy">
+<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner.gif" alt="Giwa Jossy">
 ### 👋
 
 # Empathy. Psychology. Education.
