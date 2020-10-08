@@ -27,12 +27,13 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 
 
 
-
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+[![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy)](https://github.com/giwajossy/github-readme-stats)
 
 <br />
 
