@@ -16,9 +16,9 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 
 <!-- [<img align="left" alt="Giwa Jossy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="Giwa Jossy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Giwa Jossy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/giwajossy]
-[<img align="left" alt="Giwa Jossy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/giwa-jossy-7a6b4961/]
-[<img align="left" alt="Giwa Jossy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/giwajossy/]
+* [<img align="left" alt="Giwa Jossy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/giwajossy]
+* [<img align="left" alt="Giwa Jossy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/giwa-jossy-7a6b4961/]
+* [<img align="left" alt="Giwa Jossy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/giwajossy/]
 
 <br />
 
