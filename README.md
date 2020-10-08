@@ -37,7 +37,7 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 
 ---
 
-[![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy)](https://github.com/giwajossy/github-readme-stats)
+<!-- [![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy)](https://github.com/giwajossy/github-readme-stats) -->
 
 <!-- Make private contributions count -->
 ![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true)
