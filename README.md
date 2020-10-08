@@ -2,15 +2,14 @@
 
 <!-- # Empathy. Psychology. Education. 👋 -->
 
-If you cut me open, you will find these three elements at my core.<br>
+### If you cut me open, 
+...you will find these three elements at my core.<br>
 Conversations and activities around them set me on fire. 
 
 I acknowledge every human’s uniqueness. This helps me develop workable and practical solutions to real-world problems. My philosophical approach to problem solving sets me apart.
 
 
 - 🔭 Currently exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested, as i'm looking to collaborate on this.
-
-<br />
 
 ---
 
@@ -24,15 +23,7 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 
 ---
 
-<!-- [![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy)](https://github.com/giwajossy/github-readme-stats) -->
-
-<!-- Make private contributions count -->
-<!-- ![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true) -->
-
 ![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true&show_icons=true&theme=radical)
-
-
-<br />
 
 
 ### Connect with me:
@@ -46,6 +37,3 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 [twitter]: https://twitter.com/giwajossy
 [linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/
 [instagram]: https://www.instagram.com/giwajossy/
-
-
-
