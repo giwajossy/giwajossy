@@ -8,8 +8,7 @@ Conversations and activities around them set me on fire.
 I acknowledge every human’s uniqueness. This helps me develop workable and practical solutions to real-world problems. My philosophical approach to problem solving sets me apart.
 
 
-- 🔭 Currently working on a research exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested, as i'm looking to collaborate on this. 
-- 📫 How to reach me: giwajossy@gmail.com
+- 🔭 Currently exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested, as i'm looking to collaborate on this.
 
 
 ### Connect with me:
@@ -19,41 +18,24 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 [<img align="left" alt="Giwa Jossy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Giwa Jossy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-
 <!-- [website]: https://giwajossy.com -->
 [twitter]: https://twitter.com/giwajossy
 [linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/
 [instagram]: https://www.instagram.com/giwajossy/
 
+<br />
 
 
 
 
-
-### Languages and Tools:
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
 <br />
 
-
-<!--
-
-
-Some ideas...
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on a research exploring the psychology of fashion; what people wear, and how it affects mood and energy.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 
 
