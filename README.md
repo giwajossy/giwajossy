@@ -33,4 +33,4 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 <!-- [website]: https://giwajossy.com -->
 [twitter]: https://twitter.com/giwajossy
 [linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/
-[instagram]: https://www.instagram.com/giwajossy/
+<!-- [instagram]: https://www.instagram.com/giwajossy/ -->
