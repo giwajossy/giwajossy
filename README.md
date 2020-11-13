@@ -13,6 +13,7 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [innerHTML Vs. textContent: The subtle difference.](https://dev.to/giwajossy/innerhtml-vs-textcontent-the-subtle-difference-4ik0)
 - [Forcing Your Website To Serve Secure Content](https://dev.to/giwajossy/forcing-your-website-to-serve-secure-content-39m8)
 - [Migrating Your WordPress Website To A New Domain](https://dev.to/giwajossy/migrating-your-wordpress-website-to-a-new-domain-1ffl)
 - [Understanding Git and GitHub](https://dev.to/giwajossy/understanding-git-and-github-4eld)
