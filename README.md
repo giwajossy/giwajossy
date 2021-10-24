@@ -1,24 +1,24 @@
-# Software Engineer. 👋
+# Backend Engineer. 
 
 A big fan of empathy, psychology, and education.
 
-I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems. I take a philosophical approach to problem solving.
+I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
-- 🔭 I work best in an environment that supports autonomy encourages growth.
+- 🔭 I work best in an environment that supports autonomy encourages growth. My philosophical approach to problem solving sets me apart.
 
 ---
 
-### Latest Blog Posts
+<!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l)
+<!-- - [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l)
 - [innerHTML Vs. textContent: The subtle difference.](https://dev.to/giwajossy/innerhtml-vs-textcontent-the-subtle-difference-4ik0)
 - [Understanding Git and GitHub](https://dev.to/giwajossy/understanding-git-and-github-4eld)
-- [Creating a GitHub README Profile](https://dev.to/giwajossy/creating-a-github-readme-profile-19c3)
+- [Creating a GitHub README Profile](https://dev.to/giwajossy/creating-a-github-readme-profile-19c3) -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- ---
 
-![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true&show_icons=true&theme=radical)
+![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true&show_icons=true&theme=radical) -->
 
 ### Connect with me:
 
