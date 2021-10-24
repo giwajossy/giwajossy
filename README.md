@@ -1,13 +1,10 @@
-<img src="https://raw.githubusercontent.com/giwajossy/giwajossy/master/banner.png" alt="Giwa Jossy">
+# Software Engineer. 👋
 
-# Empathy. Psychology. Education. 👋
+A big fan of empathy, psychology, and education.
 
-If you cut me open, you will find these three elements at my core.<br>
-Conversations and activities around them set me on fire.
+I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems. I take a philosophical approach to problem solving.
 
-I acknowledge every human’s uniqueness. This helps me develop workable and practical solutions to real-world problems. My philosophical approach to problem solving sets me apart.
-
-- 🔭 Currently exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested.
+- 🔭 I work best in an environment that supports autonomy encourages growth.
 
 ---
 
@@ -31,6 +28,6 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 <!-- [<img align="left" alt="Giwa Jossy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <!-- [website]: https://giwajossy.com -->
-[twitter]: https://twitter.com/giwajossy
+<!-- [twitter]: https://twitter.com/giwajossy -->
 [linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/
 <!-- [instagram]: https://www.instagram.com/giwajossy/ -->
