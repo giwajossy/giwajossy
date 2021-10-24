@@ -5,9 +5,6 @@ A big fan of empathy, psychology, and education.
 I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
 - 🔭 I work best in an environment that supports autonomy and encourages growth. My philosophical approach to problem solving sets me apart.
-
----
-
 <!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l)
