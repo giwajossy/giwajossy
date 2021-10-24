@@ -4,7 +4,7 @@ A big fan of empathy, psychology, and education.
 
 I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
-- 🔭 I work best in an environment that supports autonomy encourages growth. My philosophical approach to problem solving sets me apart.
+- 🔭 I work best in an environment that supports autonomy and encourages growth. My philosophical approach to problem solving sets me apart.
 
 ---
 
@@ -20,14 +20,14 @@ I acknowledge every human’s uniqueness, and this helps me develop workable and
 
 ![Giwa Jossy's github stats](https://github-readme-stats.vercel.app/api?username=giwajossy&count_private=true&show_icons=true&theme=radical) -->
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="Giwa Jossy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="Giwa Jossy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Giwa Jossy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="Giwa Jossy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <!-- [<img align="left" alt="Giwa Jossy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <!-- [website]: https://giwajossy.com -->
 <!-- [twitter]: https://twitter.com/giwajossy -->
-[linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/
+<!-- [linkedin]: https://www.linkedin.com/in/giwa-jossy-7a6b4961/ -->
 <!-- [instagram]: https://www.instagram.com/giwajossy/ -->
