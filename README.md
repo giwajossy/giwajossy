@@ -5,7 +5,7 @@ A big fan of empathy, psychology, and education.
 Taking philosophical approach to problem-solving
 I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
-- 🔭 I flourish in an environment that supports autonomy and encourages growth.
+- 🔭 I flourish in environments that support autonomy and encourage growth.
 
 <!-- ### Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
