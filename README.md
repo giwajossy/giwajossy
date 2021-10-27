@@ -1,6 +1,7 @@
 # Software Engineer. 
 
 A big fan of empathy, psychology, and education.
+
 Taking philosophical approach to problem-solving
 I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
