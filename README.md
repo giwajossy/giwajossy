@@ -1,19 +1,23 @@
 # Software Engineer. 
 
-A big fan of empathy, psychology, and education.
+Where empathy, psychology, and education intersect is where I like to play. 
 
-Taking philosophical approach to problem-solving
 I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
 
-- 🔭 I flourish in environments that support autonomy and encourage growth.
+And I love environments that support autonomy and encourage growth.
 
-<!-- ### Latest Blog Posts -->
+---
+### Latest [Blog](https://dev.to/giwajossy) Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l)
-- [innerHTML Vs. textContent: The subtle difference.](https://dev.to/giwajossy/innerhtml-vs-textcontent-the-subtle-difference-4ik0)
+- [Understanding TypeScript & Using it in Your Node Environment](https://dev.to/giwajossy/understanding-typescript-using-it-in-your-node-environment-3355)
+
+- [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l) 
+
+
+<!--- [innerHTML Vs. textContent: The subtle difference.](https://dev.to/giwajossy/innerhtml-vs-textcontent-the-subtle-difference-4ik0)
 - [Understanding Git and GitHub](https://dev.to/giwajossy/understanding-git-and-github-4eld)
 - [Creating a GitHub README Profile](https://dev.to/giwajossy/creating-a-github-readme-profile-19c3) -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END
 
 <!-- ---
 
