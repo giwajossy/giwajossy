@@ -7,11 +7,11 @@ I acknowledge every human’s uniqueness, and this helps me develop workable and
 And I love environments that support autonomy and encourage growth.
 
 ---
-### Latest [Blog](https://dev.to/giwajossy) Posts
+<!-- ### Latest [Blog](https://dev.to/giwajossy) Posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TypeScript & Using it in Your Node Environment](https://dev.to/giwajossy/understanding-typescript-using-it-in-your-node-environment-3355)
+<!-- - [Understanding TypeScript & Using it in Your Node Environment](https://dev.to/giwajossy/understanding-typescript-using-it-in-your-node-environment-3355) -->
 
-- [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l) 
+<!-- - [Creating Your First Chrome Extension](https://dev.to/giwajossy/creating-your-first-chrome-extension-26l)  -->
 
 
 <!--- [innerHTML Vs. textContent: The subtle difference.](https://dev.to/giwajossy/innerhtml-vs-textcontent-the-subtle-difference-4ik0)
