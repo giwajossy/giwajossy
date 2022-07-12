@@ -1,10 +1,7 @@
-# Software Engineer. 
 
-Where empathy, psychology, and education intersect is where I like to play. 
+Software Engineer with a passion for delivering usable, enjoyable, and impactful solutions. I already do this with law firms in Nigeria where I build in-house tools to help them track and record the tasks, history, and comments that are associated with a case.
 
-I acknowledge every human’s uniqueness, and this helps me develop workable and practical solutions to real-world problems.
-
-And I love environments that support autonomy and encourage growth.
+I enjoy backend components a lot more, so you will mostly find me tinkering with Application servers, Web Servers, and Data storage servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.
 
 ---
 <!-- ### Latest [Blog](https://dev.to/giwajossy) Posts -->
