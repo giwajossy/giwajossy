@@ -1,5 +1,5 @@
 
-Software Engineer with a passion for delivering usable, enjoyable, and impactful solutions. I already do this with law firms in Nigeria where I build in-house tools to help them track and record the tasks, history, and comments that are associated with a case.
+Software Engineer with a passion for delivering usable, enjoyable, and impactful solutions. 
 
 I enjoy backend components a lot more, so you will mostly find me tinkering with Application servers, Web Servers, and Data storage servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.
 
