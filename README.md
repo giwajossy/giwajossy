@@ -1,7 +1,7 @@
 
 Software Engineer with a passion for delivering usable, enjoyable, and impactful solutions. 
 
-I enjoy backend components a lot more. You will find me tinkering with Application servers, Web Servers, and Data storage servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.
+I enjoy backend technologies a lot. You will find me tinkering with Application servers, Web Servers, and Data storage servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.
 
 ---
 <!-- ### Latest [Blog](https://dev.to/giwajossy) Posts -->
