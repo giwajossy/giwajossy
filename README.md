@@ -3,7 +3,7 @@
 
 I enjoy backend technologies a lot. You will find me tinkering with Application servers, Web Servers, and Data storage servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.-->
 
-Backend Engineer with a passion for delivering usable, enjoyable, and impactful solutions. I enjoy tinkering with Application servers, Web Servers, and Datastore servers using NodeJS, Express, Javascript, Typescript, MongoDB, SQL, Docker and so much more.
+Backend Engineer with a passion for delivering usable, enjoyable, and impactful solutions. I enjoy tinkering with Application servers, Web Servers, and Datastore servers.
 
 With a background in Robotics Engineering, I bring a unique perspective to building software solutions by acknowledging the intricacies and uniqueness of humans, and this understanding allows me to approach building software solutions in a holistic manner.
 
