@@ -2,7 +2,7 @@
 
 Software Engineer with a passion for delivering usable and impactful solutions. I enjoy tinkering with backend technologies including application/web/datastore servers.
 
-With a background in Robotics Engineering, I bring a unique perspective to building software solutions by acknowledging the intricacies and uniqueness of humans. This understanding allows me approach software solutions holistically.
+With a background in Robotics Engineering, I bring a unique perspective to building software solutions by acknowledging the intricacies and uniqueness of humans. This understanding helps me approach software solutions holistically.
 
 ---
 <!-- ### Latest [Blog](https://dev.to/giwajossy) Posts -->
